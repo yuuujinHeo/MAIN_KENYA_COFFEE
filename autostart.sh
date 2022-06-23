@@ -1,5 +1,5 @@
 #!/bin/bash
 
-cd ~/Desktop/MAIN_KENYA_COFFEE/build && ./KenyaAdmin
+cd ~/Desktop/MAIN_KENYA/build && ./KenyaAdmin
 
 exit 0

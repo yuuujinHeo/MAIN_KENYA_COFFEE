@@ -132,6 +132,7 @@ public:
     QLabel *LB_ICECREAM_LAST_ERROR;
     QLabel *label_11;
     QLabel *LB_ICECREAM_OP_STATE;
+    QPushButton *BTN_ERROR;
     QPushButton *BTN_EXIT;
     QWidget *layoutWidget6;
     QGridLayout *gridLayout_2;
@@ -1052,6 +1053,16 @@ public:
 
         gridLayout_4->addWidget(LB_ICECREAM_OP_STATE, 2, 1, 1, 1);
 
+        BTN_ERROR = new QPushButton(FRAME);
+        BTN_ERROR->setObjectName(QString::fromUtf8("BTN_ERROR"));
+        BTN_ERROR->setGeometry(QRect(460, 270, 341, 70));
+        BTN_ERROR->setFont(font);
+        BTN_ERROR->setStyleSheet(QString::fromUtf8("\n"
+"QPushButton {\n"
+"	border:2px solid #595959;\n"
+"	font: 15pt \"\355\225\250\354\264\210\353\241\254\353\217\213\354\233\200\"; \n"
+"	background-color: rgb(255, 0, 0);\n"
+"}"));
         BTN_EXIT = new QPushButton(centralWidget);
         BTN_EXIT->setObjectName(QString::fromUtf8("BTN_EXIT"));
         BTN_EXIT->setGeometry(QRect(1810, 10, 100, 100));
@@ -1386,6 +1397,7 @@ public:
         LB_ICECREAM_LAST_ERROR->setText(QCoreApplication::translate("MainWindow", "0", nullptr));
         label_11->setText(QCoreApplication::translate("MainWindow", "\355\230\204\354\236\254 \353\217\231\354\236\221 :", nullptr));
         LB_ICECREAM_OP_STATE->setText(QCoreApplication::translate("MainWindow", "0", nullptr));
+        BTN_ERROR->setText(QCoreApplication::translate("MainWindow", "\354\227\220\353\237\254\353\260\234\354\203\235", nullptr));
         BTN_EXIT->setText(QString());
         label_136->setText(QCoreApplication::translate("MainWindow", "\354\264\210\352\270\260\355\231\224", nullptr));
         label_148->setText(QCoreApplication::translate("MainWindow", "\354\242\205\353\243\214 \354\213\240\355\230\270", nullptr));

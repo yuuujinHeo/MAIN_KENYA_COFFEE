@@ -477,9 +477,9 @@ public:
 
         horizontalLayout->addWidget(BTN_CLEANING);
 
-        layoutWidget->raise();
-        layoutWidget->raise();
-        layoutWidget->raise();
+        layoutWidget2->raise();
+        layoutWidget2->raise();
+        layoutWidget2->raise();
         LE_SYRUP_CONNECTION->raise();
         label_110->raise();
         line_37->raise();
