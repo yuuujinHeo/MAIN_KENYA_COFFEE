@@ -1,0 +1,621 @@
+[09:45:49]===============================================================
+[09:45:49]     START MEASURE :: 아이스 아메리카노
+[09:45:49]---------------------------------------------------------------
+[09:45:50]  START CUP           : 0.19 sec
+[09:45:52]  READY CUP           : 2.92 sec
+[09:45:55]  DISPENSE CUP        : 2.80 sec
+[09:45:57]  START ICE           : 1.67 sec
+[09:45:59]  READY ICE           : 2.14 sec
+[09:46:04]  DISPENSE ICE        : 4.46 sec
+[09:46:04]  START COFFEE         : 0.20 sec
+[09:46:34]  DISPENSE COFFEE         : 30.73 sec
+[09:46:35]  START OUTLET         : 0.18 sec
+[09:46:40]  READY OUTLET         : 5.42 sec
+[09:46:44]  DISPENSE OUTLET         : 3.59 sec
+[09:46:44]     STOP MEASURE :: 아이스 아메리카노
+[09:46:44]     TAKT TIME :: 54.31 sec
+[09:46:44]===============================================================
+
+
+
+[09:46:44]===============================================================
+[09:46:44]     START MEASURE :: 아이스 아메리카노
+[09:46:44]---------------------------------------------------------------
+[09:46:44]  START CUP           : 0.20 sec
+[09:46:48]  READY CUP           : 3.53 sec
+[09:46:50]  DISPENSE CUP        : 2.68 sec
+[09:46:53]  START ICE           : 2.20 sec
+[09:46:55]  READY ICE           : 2.13 sec
+[09:46:59]  DISPENSE ICE        : 4.47 sec
+[09:46:59]  START COFFEE         : 0.21 sec
+[09:47:31]  DISPENSE COFFEE         : 32.12 sec
+[09:47:32]  START OUTLET         : 0.20 sec
+[09:47:32]  START OUTLET         : 0.06 sec
+[09:47:32]  START OUTLET         : 0.13 sec
+[09:47:32]  START OUTLET         : 0.07 sec
+[09:47:32]  START OUTLET         : 0.13 sec
+[09:47:32]  START OUTLET         : 0.07 sec
+[09:47:32]  START OUTLET         : 0.13 sec
+[09:47:32]  START OUTLET         : 0.08 sec
+[09:47:32]  START OUTLET         : 0.12 sec
+[09:47:33]  START OUTLET         : 0.08 sec
+[09:47:33]  START OUTLET         : 0.12 sec
+[09:47:33]  START OUTLET         : 0.07 sec
+[09:47:33]  START OUTLET         : 0.14 sec
+[09:47:33]  START OUTLET         : 0.06 sec
+[09:47:33]  START OUTLET         : 0.13 sec
+[09:47:33]  START OUTLET         : 0.07 sec
+[09:47:33]  START OUTLET         : 0.13 sec
+[09:47:33]  START OUTLET         : 0.09 sec
+[09:47:33]  START OUTLET         : 0.10 sec
+[09:47:34]  START OUTLET         : 0.08 sec
+[09:47:34]  START OUTLET         : 0.12 sec
+[09:47:34]  START OUTLET         : 0.08 sec
+[09:47:34]  START OUTLET         : 0.13 sec
+[09:47:34]  START OUTLET         : 0.06 sec
+[09:47:34]  START OUTLET         : 0.13 sec
+[09:47:34]  START OUTLET         : 0.07 sec
+[09:47:34]  START OUTLET         : 0.13 sec
+[09:47:34]  START OUTLET         : 0.08 sec
+[09:47:34]  START OUTLET         : 0.12 sec
+[09:47:35]  START OUTLET         : 0.07 sec
+[09:47:35]  START OUTLET         : 0.13 sec
+[09:47:35]  START OUTLET         : 0.07 sec
+[09:47:35]  START OUTLET         : 0.15 sec
+[09:47:35]  START OUTLET         : 0.05 sec
+[09:47:35]  START OUTLET         : 0.12 sec
+[09:47:35]  START OUTLET         : 0.09 sec
+[09:47:35]  START OUTLET         : 0.14 sec
+[09:47:35]  START OUTLET         : 0.07 sec
+[09:47:35]  START OUTLET         : 0.12 sec
+[09:47:36]  START OUTLET         : 0.07 sec
+[09:47:36]  START OUTLET         : 0.14 sec
+[09:47:36]  START OUTLET         : 0.06 sec
+[09:47:36]  START OUTLET         : 0.12 sec
+[09:47:36]  START OUTLET         : 0.08 sec
+[09:47:36]  START OUTLET         : 0.12 sec
+[09:47:36]  START OUTLET         : 0.08 sec
+[09:47:36]  START OUTLET         : 0.13 sec
+[09:47:36]  START OUTLET         : 0.08 sec
+[09:47:36]  START OUTLET         : 0.13 sec
+[09:47:37]  START OUTLET         : 0.06 sec
+[09:47:37]  START OUTLET         : 0.13 sec
+[09:47:37]  START OUTLET         : 0.07 sec
+[09:47:37]  START OUTLET         : 0.14 sec
+[09:47:37]  START OUTLET         : 0.05 sec
+[09:47:37]  START OUTLET         : 0.14 sec
+[09:47:37]  START OUTLET         : 0.06 sec
+[09:47:37]  START OUTLET         : 0.14 sec
+[09:47:37]  START OUTLET         : 0.07 sec
+[09:47:37]  START OUTLET         : 0.12 sec
+[09:47:38]  START OUTLET         : 0.07 sec
+[09:47:38]  START OUTLET         : 0.14 sec
+[09:47:38]  START OUTLET         : 0.06 sec
+[09:47:38]  START OUTLET         : 0.14 sec
+[09:47:38]  START OUTLET         : 0.07 sec
+[09:47:38]  START OUTLET         : 0.14 sec
+[09:47:38]  START OUTLET         : 0.06 sec
+[09:47:38]  START OUTLET         : 0.13 sec
+[09:47:38]  START OUTLET         : 0.07 sec
+[09:47:38]  START OUTLET         : 0.13 sec
+[09:47:39]  START OUTLET         : 0.06 sec
+[09:47:39]  START OUTLET         : 0.14 sec
+[09:47:39]  START OUTLET         : 0.06 sec
+[09:47:39]  START OUTLET         : 0.13 sec
+[09:47:39]  START OUTLET         : 0.07 sec
+[09:47:39]  START OUTLET         : 0.13 sec
+[09:47:39]  START OUTLET         : 0.07 sec
+[09:47:39]  START OUTLET         : 0.12 sec
+[09:47:39]  START OUTLET         : 0.09 sec
+[09:47:39]  START OUTLET         : 0.11 sec
+[09:47:40]  START OUTLET         : 0.09 sec
+[09:47:40]  START OUTLET         : 0.12 sec
+[09:47:40]  START OUTLET         : 0.07 sec
+[09:47:40]  START OUTLET         : 0.14 sec
+[09:47:40]  START OUTLET         : 0.07 sec
+[09:47:40]  START OUTLET         : 0.14 sec
+[09:47:40]  START OUTLET         : 0.06 sec
+[09:47:40]  START OUTLET         : 0.13 sec
+[09:47:40]  START OUTLET         : 0.08 sec
+[09:47:40]  START OUTLET         : 0.13 sec
+[09:47:41]  START OUTLET         : 0.06 sec
+[09:47:41]  START OUTLET         : 0.13 sec
+[09:47:41]  START OUTLET         : 0.08 sec
+[09:47:41]  START OUTLET         : 0.12 sec
+[09:47:41]  START OUTLET         : 0.07 sec
+[09:47:41]  START OUTLET         : 0.13 sec
+[09:47:41]  START OUTLET         : 0.08 sec
+[09:47:41]  START OUTLET         : 0.13 sec
+[09:47:41]  START OUTLET         : 0.07 sec
+[09:47:41]  START OUTLET         : 0.12 sec
+[09:47:42]  START OUTLET         : 0.07 sec
+[09:47:42]  START OUTLET         : 0.14 sec
+[09:47:42]  START OUTLET         : 0.06 sec
+[09:47:42]  START OUTLET         : 0.14 sec
+[09:47:42]  START OUTLET         : 0.06 sec
+[09:47:42]  START OUTLET         : 0.13 sec
+[09:47:42]  START OUTLET         : 0.08 sec
+[09:47:42]  START OUTLET         : 0.13 sec
+[09:47:42]  START OUTLET         : 0.07 sec
+[09:47:42]  START OUTLET         : 0.14 sec
+[09:47:43]  START OUTLET         : 0.06 sec
+[09:47:43]  START OUTLET         : 0.13 sec
+[09:47:43]  START OUTLET         : 0.07 sec
+[09:47:43]  START OUTLET         : 0.13 sec
+[09:47:43]  START OUTLET         : 0.07 sec
+[09:47:43]  START OUTLET         : 0.14 sec
+[09:47:43]  START OUTLET         : 0.07 sec
+[09:47:43]  START OUTLET         : 0.13 sec
+[09:47:43]  START OUTLET         : 0.07 sec
+[09:47:43]  START OUTLET         : 0.13 sec
+[09:47:44]  START OUTLET         : 0.06 sec
+[09:47:44]  START OUTLET         : 0.14 sec
+[09:47:44]  START OUTLET         : 0.06 sec
+[09:47:44]  START OUTLET         : 0.14 sec
+[09:47:44]  START OUTLET         : 0.06 sec
+[09:47:44]  START OUTLET         : 0.12 sec
+[09:47:44]  START OUTLET         : 0.08 sec
+[09:47:44]  START OUTLET         : 0.12 sec
+[09:47:44]  START OUTLET         : 0.08 sec
+[09:47:44]  START OUTLET         : 0.13 sec
+[09:47:45]  START OUTLET         : 0.07 sec
+[09:47:45]  START OUTLET         : 0.13 sec
+[09:47:45]  START OUTLET         : 0.07 sec
+[09:47:45]  START OUTLET         : 0.14 sec
+[09:47:45]  START OUTLET         : 0.06 sec
+[09:47:45]  START OUTLET         : 0.13 sec
+[09:47:45]  START OUTLET         : 0.07 sec
+[09:47:45]  START OUTLET         : 0.13 sec
+[09:47:45]  START OUTLET         : 0.08 sec
+[09:47:45]  START OUTLET         : 0.12 sec
+[09:47:46]  START OUTLET         : 0.08 sec
+[09:47:46]  START OUTLET         : 0.13 sec
+[09:47:46]  START OUTLET         : 0.07 sec
+[09:47:46]  START OUTLET         : 0.14 sec
+[09:47:46]  START OUTLET         : 0.06 sec
+[09:47:46]  START OUTLET         : 0.14 sec
+[09:47:46]  START OUTLET         : 0.07 sec
+[09:47:46]  START OUTLET         : 0.14 sec
+[09:47:46]  START OUTLET         : 0.06 sec
+[09:47:46]  START OUTLET         : 0.14 sec
+[09:47:47]  START OUTLET         : 0.06 sec
+[09:47:47]  START OUTLET         : 0.13 sec
+[09:47:47]  START OUTLET         : 0.07 sec
+[09:47:47]  START OUTLET         : 0.13 sec
+[09:47:47]  START OUTLET         : 0.07 sec
+[09:47:47]  START OUTLET         : 0.13 sec
+[09:47:47]  START OUTLET         : 0.08 sec
+[09:47:47]  START OUTLET         : 0.13 sec
+[09:47:47]  START OUTLET         : 0.07 sec
+[09:47:47]  START OUTLET         : 0.11 sec
+[09:47:48]  START OUTLET         : 0.08 sec
+[09:47:48]  START OUTLET         : 0.14 sec
+[09:47:48]  START OUTLET         : 0.07 sec
+[09:47:48]  START OUTLET         : 0.12 sec
+[09:47:48]  START OUTLET         : 0.08 sec
+[09:47:48]  START OUTLET         : 0.13 sec
+[09:47:48]  START OUTLET         : 0.07 sec
+[09:47:48]  START OUTLET         : 0.12 sec
+[09:47:48]  START OUTLET         : 0.09 sec
+[09:47:48]  START OUTLET         : 0.13 sec
+[09:47:49]  START OUTLET         : 0.06 sec
+[09:47:49]  START OUTLET         : 0.14 sec
+[09:47:49]  START OUTLET         : 0.07 sec
+[09:47:49]  START OUTLET         : 0.13 sec
+[09:47:49]  START OUTLET         : 0.07 sec
+[09:47:49]  START OUTLET         : 0.13 sec
+[09:47:49]  START OUTLET         : 0.07 sec
+[09:47:49]  START OUTLET         : 0.13 sec
+[09:47:49]  START OUTLET         : 0.08 sec
+[09:47:49]  START OUTLET         : 0.13 sec
+[09:47:50]  START OUTLET         : 0.07 sec
+[09:47:50]  START OUTLET         : 0.13 sec
+[09:47:50]  START OUTLET         : 0.07 sec
+[09:47:50]  START OUTLET         : 0.15 sec
+[09:47:50]  START OUTLET         : 0.06 sec
+[09:47:50]  START OUTLET         : 0.14 sec
+[09:47:50]  START OUTLET         : 0.07 sec
+[09:47:50]  START OUTLET         : 0.14 sec
+[09:47:50]  START OUTLET         : 0.07 sec
+[09:47:50]  START OUTLET         : 0.11 sec
+[09:47:51]  START OUTLET         : 0.08 sec
+[09:47:51]  START OUTLET         : 0.13 sec
+[09:47:51]  START OUTLET         : 0.07 sec
+[09:47:51]  START OUTLET         : 0.15 sec
+[09:47:51]  START OUTLET         : 0.05 sec
+[09:47:51]  START OUTLET         : 0.13 sec
+[09:47:51]  START OUTLET         : 0.07 sec
+[09:47:51]  START OUTLET         : 0.13 sec
+[09:47:51]  START OUTLET         : 0.08 sec
+[09:47:51]  START OUTLET         : 0.12 sec
+[09:47:52]  START OUTLET         : 0.07 sec
+[09:47:52]  START OUTLET         : 0.13 sec
+[09:47:52]  START OUTLET         : 0.07 sec
+[09:47:52]  START OUTLET         : 0.12 sec
+[09:47:52]  START OUTLET         : 0.08 sec
+[09:47:52]  START OUTLET         : 0.13 sec
+[09:47:52]  START OUTLET         : 0.07 sec
+[09:47:52]  START OUTLET         : 0.13 sec
+[09:47:52]  START OUTLET         : 0.09 sec
+[09:47:52]  START OUTLET         : 0.11 sec
+[09:47:53]  START OUTLET         : 0.08 sec
+[09:47:53]  START OUTLET         : 0.13 sec
+[09:47:53]  START OUTLET         : 0.07 sec
+[09:47:53]  START OUTLET         : 0.16 sec
+[09:47:53]  START OUTLET         : 0.04 sec
+[09:47:53]  START OUTLET         : 0.13 sec
+[09:47:53]  START OUTLET         : 0.07 sec
+[09:47:53]  START OUTLET         : 0.14 sec
+[09:47:53]  START OUTLET         : 0.07 sec
+[09:47:53]  START OUTLET         : 0.13 sec
+[09:47:54]  START OUTLET         : 0.07 sec
+[09:47:54]  START OUTLET         : 0.14 sec
+[09:47:54]  START OUTLET         : 0.06 sec
+[09:47:54]  START OUTLET         : 0.14 sec
+[09:47:54]  START OUTLET         : 0.06 sec
+[09:47:54]  START OUTLET         : 0.13 sec
+[09:47:54]  START OUTLET         : 0.07 sec
+[09:47:54]  START OUTLET         : 0.13 sec
+[09:47:54]  START OUTLET         : 0.08 sec
+[09:47:54]  START OUTLET         : 0.12 sec
+[09:47:55]  START OUTLET         : 0.07 sec
+[09:47:55]  START OUTLET         : 0.13 sec
+[09:47:55]  START OUTLET         : 0.07 sec
+[09:47:55]  START OUTLET         : 0.14 sec
+[09:47:55]  START OUTLET         : 0.06 sec
+[09:47:55]  START OUTLET         : 0.13 sec
+[09:47:55]  START OUTLET         : 0.07 sec
+[09:47:55]  START OUTLET         : 0.13 sec
+[09:47:55]  START OUTLET         : 0.07 sec
+[09:47:55]  START OUTLET         : 0.13 sec
+[09:47:56]  START OUTLET         : 0.07 sec
+[09:47:56]  START OUTLET         : 0.13 sec
+[09:47:56]  START OUTLET         : 0.07 sec
+[09:47:56]  START OUTLET         : 0.13 sec
+[09:47:56]  START OUTLET         : 0.07 sec
+[09:47:56]  START OUTLET         : 0.14 sec
+[09:47:56]  START OUTLET         : 0.06 sec
+[09:47:56]  START OUTLET         : 0.12 sec
+[09:47:56]  START OUTLET         : 0.08 sec
+[09:47:56]  START OUTLET         : 0.12 sec
+[09:47:57]  START OUTLET         : 0.08 sec
+[09:47:57]  START OUTLET         : 0.12 sec
+[09:47:57]  START OUTLET         : 0.08 sec
+[09:47:57]  START OUTLET         : 0.13 sec
+[09:47:57]  START OUTLET         : 0.06 sec
+[09:47:57]  START OUTLET         : 0.13 sec
+[09:47:57]  START OUTLET         : 0.07 sec
+[09:47:57]  START OUTLET         : 0.13 sec
+[09:47:57]  START OUTLET         : 0.08 sec
+[09:47:57]  START OUTLET         : 0.11 sec
+[09:47:58]  START OUTLET         : 0.07 sec
+[09:47:58]  START OUTLET         : 0.12 sec
+[09:47:58]  START OUTLET         : 0.08 sec
+[09:47:58]  START OUTLET         : 0.15 sec
+[09:47:58]  START OUTLET         : 0.05 sec
+[09:47:58]  START OUTLET         : 0.14 sec
+[09:47:58]  START OUTLET         : 0.06 sec
+[09:47:58]  START OUTLET         : 0.14 sec
+[09:47:58]  START OUTLET         : 0.07 sec
+[09:47:58]  START OUTLET         : 0.12 sec
+[09:47:59]  START OUTLET         : 0.07 sec
+[09:47:59]  START OUTLET         : 0.13 sec
+[09:47:59]  START OUTLET         : 0.07 sec
+[09:47:59]  START OUTLET         : 0.13 sec
+[09:47:59]  START OUTLET         : 0.06 sec
+[09:47:59]  START OUTLET         : 0.14 sec
+[09:47:59]  START OUTLET         : 0.06 sec
+[09:47:59]  START OUTLET         : 0.14 sec
+[09:47:59]  START OUTLET         : 0.07 sec
+[09:47:59]  START OUTLET         : 0.13 sec
+[09:48:00]  START OUTLET         : 0.07 sec
+[09:48:00]  START OUTLET         : 0.14 sec
+[09:48:00]  START OUTLET         : 0.06 sec
+[09:48:00]  START OUTLET         : 0.13 sec
+[09:48:00]  START OUTLET         : 0.08 sec
+[09:48:00]  START OUTLET         : 0.13 sec
+[09:48:00]  START OUTLET         : 0.06 sec
+[09:48:00]  START OUTLET         : 0.13 sec
+[09:48:00]  START OUTLET         : 0.08 sec
+[09:48:00]  START OUTLET         : 0.12 sec
+[09:48:01]  START OUTLET         : 0.07 sec
+[09:48:01]  START OUTLET         : 0.13 sec
+[09:48:01]  START OUTLET         : 0.06 sec
+[09:48:01]  START OUTLET         : 0.13 sec
+[09:48:01]  START OUTLET         : 0.07 sec
+[09:48:01]  START OUTLET         : 0.13 sec
+[09:48:01]  START OUTLET         : 0.07 sec
+[09:48:01]  START OUTLET         : 0.14 sec
+[09:48:01]  START OUTLET         : 0.08 sec
+[09:48:01]  START OUTLET         : 0.11 sec
+[09:48:02]  START OUTLET         : 0.08 sec
+[09:48:02]  START OUTLET         : 0.12 sec
+[09:48:02]  START OUTLET         : 0.08 sec
+[09:48:02]  START OUTLET         : 0.13 sec
+[09:48:02]  START OUTLET         : 0.07 sec
+[09:48:02]  START OUTLET         : 0.13 sec
+[09:48:02]  START OUTLET         : 0.07 sec
+[09:48:02]  START OUTLET         : 0.12 sec
+[09:48:02]  START OUTLET         : 0.09 sec
+[09:48:02]  START OUTLET         : 0.13 sec
+[09:48:03]  START OUTLET         : 0.07 sec
+[09:48:03]  START OUTLET         : 0.13 sec
+[09:48:03]  START OUTLET         : 0.07 sec
+[09:48:03]  START OUTLET         : 0.14 sec
+[09:48:03]  START OUTLET         : 0.07 sec
+[09:48:03]  START OUTLET         : 0.13 sec
+[09:48:03]  START OUTLET         : 0.07 sec
+[09:48:03]  START OUTLET         : 0.14 sec
+[09:48:03]  START OUTLET         : 0.06 sec
+[09:48:03]  START OUTLET         : 0.13 sec
+[09:48:04]  START OUTLET         : 0.07 sec
+[09:48:04]  START OUTLET         : 0.14 sec
+[09:48:04]  START OUTLET         : 0.06 sec
+[09:48:04]  START OUTLET         : 0.14 sec
+[09:48:04]  START OUTLET         : 0.07 sec
+[09:48:04]  START OUTLET         : 0.13 sec
+[09:48:04]  START OUTLET         : 0.07 sec
+[09:48:04]  START OUTLET         : 0.13 sec
+[09:48:04]  START OUTLET         : 0.07 sec
+[09:48:04]  START OUTLET         : 0.12 sec
+[09:48:05]  START OUTLET         : 0.08 sec
+[09:48:05]  START OUTLET         : 0.12 sec
+[09:48:05]  START OUTLET         : 0.07 sec
+[09:48:05]  START OUTLET         : 0.13 sec
+[09:48:05]  START OUTLET         : 0.07 sec
+[09:48:05]  START OUTLET         : 0.14 sec
+[09:48:05]  START OUTLET         : 0.07 sec
+[09:48:05]  START OUTLET         : 0.14 sec
+[09:48:05]  START OUTLET         : 0.07 sec
+[09:48:05]  START OUTLET         : 0.12 sec
+[09:48:06]  START OUTLET         : 0.07 sec
+[09:48:06]  START OUTLET         : 0.12 sec
+[09:48:06]  START OUTLET         : 0.08 sec
+[09:48:06]  START OUTLET         : 0.14 sec
+[09:48:06]  START OUTLET         : 0.05 sec
+[09:48:06]  START OUTLET         : 0.14 sec
+[09:48:06]  START OUTLET         : 0.06 sec
+[09:48:06]  START OUTLET         : 0.13 sec
+[09:48:06]  START OUTLET         : 0.08 sec
+[09:48:06]  START OUTLET         : 0.13 sec
+[09:48:07]  START OUTLET         : 0.07 sec
+[09:48:07]  START OUTLET         : 0.13 sec
+[09:48:07]  START OUTLET         : 0.07 sec
+[09:48:07]  START OUTLET         : 0.11 sec
+[09:48:07]  START OUTLET         : 0.08 sec
+[09:48:07]  START OUTLET         : 0.12 sec
+[09:48:07]  START OUTLET         : 0.08 sec
+[09:48:07]  START OUTLET         : 0.14 sec
+[09:48:07]  START OUTLET         : 0.07 sec
+[09:48:07]  START OUTLET         : 0.12 sec
+[09:48:08]  START OUTLET         : 0.07 sec
+[09:48:08]  START OUTLET         : 0.12 sec
+[09:48:08]  START OUTLET         : 0.08 sec
+[09:48:08]  START OUTLET         : 0.15 sec
+[09:48:08]  START OUTLET         : 0.05 sec
+[09:48:08]  START OUTLET         : 0.14 sec
+[09:48:08]  START OUTLET         : 0.07 sec
+[09:48:08]  START OUTLET         : 0.12 sec
+[09:48:08]  START OUTLET         : 0.09 sec
+[09:48:08]  START OUTLET         : 0.12 sec
+[09:48:09]  START OUTLET         : 0.06 sec
+[09:48:09]  START OUTLET         : 0.14 sec
+[09:48:09]  START OUTLET         : 0.07 sec
+[09:48:09]  START OUTLET         : 0.14 sec
+[09:48:09]  START OUTLET         : 0.06 sec
+[09:48:09]  START OUTLET         : 0.14 sec
+[09:48:09]  START OUTLET         : 0.07 sec
+[09:48:09]  START OUTLET         : 0.14 sec
+[09:48:09]  START OUTLET         : 0.07 sec
+[09:48:09]  START OUTLET         : 0.11 sec
+[09:48:10]  START OUTLET         : 0.08 sec
+[09:48:10]  START OUTLET         : 0.14 sec
+[09:48:18]  READY OUTLET         : 8.27 sec
+[09:48:22]  DISPENSE OUTLET         : 3.59 sec
+[09:48:22]     STOP MEASURE :: 아이스 아메리카노
+[09:48:22]     TAKT TIME :: 97.60 sec
+[09:48:22]===============================================================
+
+
+
+[09:49:08]===============================================================
+[09:49:08]     START MEASURE :: 아이스 아메리카노
+[09:49:08]---------------------------------------------------------------
+[09:49:08]  START CUP           : 0.21 sec
+[09:49:11]  READY CUP           : 2.86 sec
+[09:49:14]  DISPENSE CUP        : 2.79 sec
+[09:49:15]  START ICE           : 1.80 sec
+[09:49:17]  READY ICE           : 2.13 sec
+[09:49:22]  DISPENSE ICE        : 4.47 sec
+[09:49:22]  START COFFEE         : 0.21 sec
+[09:49:52]  DISPENSE COFFEE         : 30.34 sec
+[09:49:53]  START OUTLET         : 0.18 sec
+[09:50:01]  READY OUTLET         : 8.21 sec
+[09:50:04]  DISPENSE OUTLET         : 3.60 sec
+[09:50:04]     STOP MEASURE :: 아이스 아메리카노
+[09:50:04]     TAKT TIME :: 56.80 sec
+[09:50:04]===============================================================
+
+
+
+[12:03:32]===============================================================
+[12:03:32]     START MEASURE :: 아이스 아메리카노
+[12:03:32]---------------------------------------------------------------
+[12:03:32]  START CUP           : 0.20 sec
+[12:03:35]  READY CUP           : 3.54 sec
+[12:03:38]  DISPENSE CUP        : 2.86 sec
+[12:03:40]  START ICE           : 2.21 sec
+[12:03:42]  READY ICE           : 2.13 sec
+[12:03:47]  DISPENSE ICE        : 4.46 sec
+[12:03:47]  START COFFEE         : 0.20 sec
+[12:04:17]  DISPENSE COFFEE         : 30.33 sec
+[12:04:18]  START OUTLET         : 0.20 sec
+[12:04:25]  READY OUTLET         : 7.26 sec
+[12:04:29]  DISPENSE OUTLET         : 3.60 sec
+[12:04:29]     STOP MEASURE :: 아이스 아메리카노
+[12:04:29]     TAKT TIME :: 57.00 sec
+[12:04:29]===============================================================
+
+
+
+[12:04:41]===============================================================
+[12:04:41]     START MEASURE :: 아이스 아메리카노
+[12:04:41]---------------------------------------------------------------
+[12:04:41]  START CUP           : 0.20 sec
+[12:04:44]  READY CUP           : 2.80 sec
+[12:04:47]  DISPENSE CUP        : 2.93 sec
+[12:04:48]  START ICE           : 1.68 sec
+[12:04:50]  READY ICE           : 2.13 sec
+[12:04:55]  DISPENSE ICE        : 4.46 sec
+[12:04:55]  START COFFEE         : 0.20 sec
+[12:05:25]  DISPENSE COFFEE         : 29.40 sec
+[12:05:25]  START OUTLET         : 0.20 sec
+[12:05:32]  READY OUTLET         : 7.33 sec
+[12:05:36]  DISPENSE OUTLET         : 3.60 sec
+[12:05:36]     STOP MEASURE :: 아이스 아메리카노
+[12:05:36]     TAKT TIME :: 54.93 sec
+[12:05:36]===============================================================
+
+
+
+[12:59:09]===============================================================
+[12:59:09]     START MEASURE :: 아이스 아메리카노
+[12:59:09]---------------------------------------------------------------
+[12:59:10]  START CUP           : 0.19 sec
+[12:59:13]  READY CUP           : 3.53 sec
+[12:59:16]  DISPENSE CUP        : 2.87 sec
+[12:59:18]  START ICE           : 2.20 sec
+[12:59:20]  READY ICE           : 2.13 sec
+[12:59:25]  DISPENSE ICE        : 4.46 sec
+[12:59:25]  START COFFEE         : 0.20 sec
+[12:59:55]  DISPENSE COFFEE         : 30.53 sec
+[12:59:56]  START OUTLET         : 0.21 sec
+[13:00:04]  READY OUTLET         : 8.20 sec
+[13:00:07]  DISPENSE OUTLET         : 3.60 sec
+[13:00:07]     STOP MEASURE :: 아이스 아메리카노
+[13:00:07]     TAKT TIME :: 58.12 sec
+[13:00:07]===============================================================
+
+
+
+[13:35:08]===============================================================
+[13:35:08]     START MEASURE :: 아이스 아메리카노
+[13:35:08]---------------------------------------------------------------
+[13:35:08]  START CUP           : 0.20 sec
+[13:35:11]  READY CUP           : 2.79 sec
+[13:35:13]  DISPENSE CUP        : 2.80 sec
+[13:35:15]  START ICE           : 1.67 sec
+[13:35:17]  READY ICE           : 2.14 sec
+[13:35:22]  DISPENSE ICE        : 4.46 sec
+[13:35:22]  START COFFEE         : 0.20 sec
+[13:35:54]  DISPENSE COFFEE         : 32.54 sec
+[13:35:55]  START OUTLET         : 0.20 sec
+[13:36:02]  READY OUTLET         : 7.21 sec
+[13:36:05]  DISPENSE OUTLET         : 3.59 sec
+[13:36:05]     STOP MEASURE :: 아이스 아메리카노
+[13:36:05]     TAKT TIME :: 57.79 sec
+[13:36:05]===============================================================
+
+
+
+[14:30:57]===============================================================
+[14:30:57]     START MEASURE :: 아이스 아메리카노
+[14:30:57]---------------------------------------------------------------
+[14:30:57]  START CUP           : 0.21 sec
+[14:31:00]  READY CUP           : 3.47 sec
+[14:31:03]  DISPENSE CUP        : 2.93 sec
+[14:31:05]  START ICE           : 2.19 sec
+[14:31:08]  READY ICE           : 2.21 sec
+[14:31:12]  DISPENSE ICE        : 4.46 sec
+[14:31:12]  START COFFEE         : 0.20 sec
+[14:31:45]  DISPENSE COFFEE         : 33.12 sec
+[14:31:46]  START OUTLET         : 0.20 sec
+[14:31:54]  READY OUTLET         : 8.20 sec
+[14:31:57]  DISPENSE OUTLET         : 3.60 sec
+[14:31:57]     STOP MEASURE :: 아이스 아메리카노
+[14:31:57]     TAKT TIME :: 60.80 sec
+[14:31:57]===============================================================
+
+
+
+[14:31:58]===============================================================
+[14:31:58]     START MEASURE :: 아이스 아메리카노
+[14:31:58]---------------------------------------------------------------
+[14:31:58]  START CUP           : 0.20 sec
+[14:32:01]  READY CUP           : 2.81 sec
+[14:32:04]  DISPENSE CUP        : 2.93 sec
+[14:32:05]  START ICE           : 1.68 sec
+[14:32:07]  READY ICE           : 2.12 sec
+[14:32:12]  DISPENSE ICE        : 4.47 sec
+[14:32:12]  START COFFEE         : 0.20 sec
+[14:32:44]  DISPENSE COFFEE         : 32.33 sec
+[14:32:45]  START OUTLET         : 0.20 sec
+[14:32:52]  READY OUTLET         : 7.27 sec
+[14:32:56]  DISPENSE OUTLET         : 3.60 sec
+[14:32:56]     STOP MEASURE :: 아이스 아메리카노
+[14:32:56]     TAKT TIME :: 57.81 sec
+[14:32:56]===============================================================
+
+
+
+[14:32:56]===============================================================
+[14:32:56]     START MEASURE :: 탄산수
+[14:32:56]---------------------------------------------------------------
+[14:32:56]  START CUP           : 0.20 sec
+[14:33:00]  READY CUP           : 3.47 sec
+[14:33:02]  DISPENSE CUP        : 2.81 sec
+[14:33:05]  START ICE           : 2.19 sec
+[14:33:07]  READY ICE           : 2.13 sec
+[14:33:10]  DISPENSE ICE        : 3.47 sec
+[14:33:10]  START SYRUP         : 0.21 sec
+[14:33:14]  READY SYRUP         : 3.19 sec
+[14:33:16]  DISPENSE SYRUP         : 2.40 sec
+[14:33:16]  START OUTLET         : 0.20 sec
+[14:33:27]  READY OUTLET         : 10.53 sec
+[14:33:30]  DISPENSE OUTLET         : 3.60 sec
+[14:33:30]     STOP MEASURE :: 탄산수
+[14:33:30]     TAKT TIME :: 34.40 sec
+[14:33:30]===============================================================
+
+
+
+[15:58:06]===============================================================
+[15:58:06]     START MEASURE :: 아이스 아메리카노
+[15:58:06]---------------------------------------------------------------
+[15:58:06]  START CUP           : 0.20 sec
+[15:58:09]  READY CUP           : 2.81 sec
+[15:58:12]  DISPENSE CUP        : 2.92 sec
+[15:58:13]  START ICE           : 1.67 sec
+[15:58:15]  READY ICE           : 2.14 sec
+[15:58:20]  DISPENSE ICE        : 4.57 sec
+[15:58:20]  START COFFEE         : 0.20 sec
+[15:58:52]  DISPENSE COFFEE         : 31.29 sec
+[15:58:52]  START OUTLET         : 0.20 sec
+[15:58:58]  READY OUTLET         : 6.40 sec
+[15:59:02]  DISPENSE OUTLET         : 3.60 sec
+[15:59:02]     STOP MEASURE :: 아이스 아메리카노
+[15:59:02]     TAKT TIME :: 56.01 sec
+[15:59:02]===============================================================
+
+
+
+[16:02:18]===============================================================
+[16:02:18]     START MEASURE :: 아이스 아메리카노
+[16:02:18]---------------------------------------------------------------
+[16:02:18]  START CUP           : 0.20 sec
+[16:02:21]  READY CUP           : 3.54 sec
+[16:02:24]  DISPENSE CUP        : 2.88 sec
+[16:02:27]  START ICE           : 2.19 sec
+[16:02:29]  READY ICE           : 2.14 sec
+[16:02:33]  DISPENSE ICE        : 4.46 sec
+[16:02:33]  START COFFEE         : 0.20 sec
+[16:03:07]  DISPENSE COFFEE         : 33.20 sec
+[16:03:07]  START OUTLET         : 0.19 sec
+[16:03:15]  READY OUTLET         : 8.15 sec
+[16:03:18]  DISPENSE OUTLET         : 3.59 sec
+[16:03:18]     STOP MEASURE :: 아이스 아메리카노
+[16:03:18]     TAKT TIME :: 60.73 sec
+[16:03:18]===============================================================
+
+
+
